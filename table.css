@@ -1,0 +1,44 @@
+
+.outfits
+{
+	height:410;
+	border-width:1px;
+	border-style:solid;
+	border-color:transparent;
+}
+.outfits td, th {
+  border: solid 1px white;
+}
+.toprow
+{
+	height:205;;
+	width:100%;
+}
+.botrow
+{
+	height:205;;
+	width:100%;
+}
+.tsection
+{
+	height:205;
+	width:300px;
+	background-color:transparent;
+}
+.section
+{
+	height:205;
+	width:300px;
+	background-color:transparent;
+}
+.picture
+{
+	height:205;
+	width:300px;
+}
+.tad
+{
+	width:560px;
+	overflow: hidden;
+	height:205px;
+}
